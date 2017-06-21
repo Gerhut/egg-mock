@@ -28,7 +28,7 @@ Object.assign(mock, mm, {
    * @method mm#app
    * @param {Object} [options]
    * - {String} baseDir - The directory of the application
-   * - {Object} plugins - Tustom you plugins
+   * - {Object} plugins - Custom your plugins
    * - {String} framework - The directory of the egg framework
    * - {Boolean} [true] cache - Cache application based on baseDir
    * - {Boolean} [true] coverage - Swtich on process coverage, but it'll be slower
